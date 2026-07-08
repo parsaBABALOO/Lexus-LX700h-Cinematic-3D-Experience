@@ -9,9 +9,6 @@ Where unyielding hybrid power blends seamlessly with elite web engineering.
 [![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)]()
 
-<p align="center">
-  <img src="public/images/footer-bg.jpg" alt="Lexus 3D Showcase Preview" width="100%" style="border-radius: 4px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-</p>
 
 An ultra-premium, immersive landing page built to showcase the true essence of the Lexus LX 700h. This project breaks the boundaries of traditional web design by merging real-time WebGL 3D rendering with scroll-driven cinematic visuals, delivering a luxury brand experience directly in the browser.
 
@@ -102,3 +99,17 @@ Navigate to http://localhost:3000 in your browser to view the masterpiece.
 ​Disclaimer: This project is a non-commercial, educational portfolio piece showcasing advanced frontend development skills. All 3D models, images, videos, and brand names (Lexus) are the intellectual property of Toyota Motor Corporation and are used solely for conceptual demonstration. This project is not affiliated with or endorsed by Lexus.
 
 ---
+
+📬 Contact
+
+Developer: Parsa Babaloo
+
+The only way to contact the developer is via email:
+
+Email: parsababalo1403@gmail.com
+
+Any other contact methods, accounts, or channels claiming association with this project are unofficial and should be ignored.
+
+---
+
+⭐ If this project helped you, please give it a star! ⭐
