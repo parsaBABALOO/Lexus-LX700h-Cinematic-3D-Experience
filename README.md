@@ -1,4 +1,4 @@
-<img width="1366" height="638" alt="111" src="https://github.com/user-attachments/assets/1fe4910e-142b-475a-a51e-b0148004d907" /><div align="center">
+</div>
 
 # 🏎️ Lexus LX 700h: Cinematic 3D Web Experience
 
