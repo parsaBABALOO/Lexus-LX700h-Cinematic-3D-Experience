@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1366" height="638" alt="111" src="https://github.com/user-attachments/assets/1fe4910e-142b-475a-a51e-b0148004d907" /><div align="center">
 
 # 🏎️ Lexus LX 700h: Cinematic 3D Web Experience
 
@@ -13,6 +13,14 @@ Where unyielding hybrid power blends seamlessly with elite web engineering.
 An ultra-premium, immersive landing page built to showcase the true essence of the Lexus LX 700h. This project breaks the boundaries of traditional web design by merging real-time WebGL 3D rendering with scroll-driven cinematic visuals, delivering a luxury brand experience directly in the browser.
 
 </div>
+
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/banner2.png" alt="Banner" width="100%">
+</p>
 
 ---
 
